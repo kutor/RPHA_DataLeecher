@@ -15,7 +15,7 @@ Info it can get:
 - Genre of work (from HTML tags on site C's)
 - Link pointing to work's online version (from site B's).
 
-The result is an HTML table that can be directly copied into an Excel spreadsheet.
+The result is a newly created HTML table which that can be directly copied into an Excel spreadsheet via a simple Ctrl-A Ctrl-C.
 
 
 Hastily done in a few days with no prior knowledge of Python, relying on tutorials and a basic understanding of programming concepts like loops, types etc. since I already knew some JS.
