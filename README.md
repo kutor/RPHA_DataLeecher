@@ -18,4 +18,5 @@ Info it can get:
 The result is an HTML table that can be directly copied into an Excel spreadsheet.
 
 
-Hastily done in a few days with no prior knowledge of Python. Saved me a few hundred work hours.
+Hastily done in a few days with no prior knowledge of Python. 
+Based on an estimate, this code saved me about two months of not-so-exciting manual copying, getting data from a total of some 25,000 works.
