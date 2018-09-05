@@ -2,8 +2,8 @@
 Web Scraper for getting data from periodicals in the online archives of Hungary's National Széchényi Library, using BeautifulSoup and nltk. 
 
 Structure for the websites is:
-- Site A is the only input needed. It is a list of all issues of the periodical, pointing to:
-- Site B's, which are lists of works in the specific issue, pointing to:
+- Site A is the only input needed. It is a list of all issues of the periodical, with links pointing to:
+- Site B's, which are lists of works in the specific issue, with links pointing to:
 - Site C's, which are the works themselves.
 
 Info it can get:
